@@ -1,0 +1,3 @@
+https://etherscan.io/address/0x8a90cab2b38dba80c64b7734e58ee1db38b8992e#contracts
+https://etherscan.io/address/0xA66CC78067fd1E6Aa3eEC4CcdFF88D81527F92c1#writeContract (whitelist)
+https://etherscan.io/address/0xdebbc3691d42090d899cafe0c4ed80897a7c9d6a#readContract (Fluffy Polar Bears, full chain, ERc1155)

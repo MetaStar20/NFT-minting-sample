@@ -1,0 +1,16 @@
+https://etherscan.io/address/0xe520e12e73039afed790acf4244b288a8dcb0e75#code
+https://etherscan.io/address/0x901682fe39416e61526203a11d212e3329d07e92#code
+https://ftmscan.com/address/0xb3b96df217e88ee51513c0abc036c3d0fc885eaa#code
+https://ftmscan.com/address/0x1a6ad2ff9c858521508e2a5e3885b7d04f879a5f#code
+
+
+https://ftmscan.com/address/0xc9e2af6d4efea2bddc2e836f79272b367fad1712#code
+
+
+https://polygonscan.com/address/0x81553cc8e13b480a33f80ec69c26fd20dcaa2a59#code normal simple NFT
+
+
+https://github.com/CodinMaster/Crypto-Car-Battle
+https://github.com/PortalNetwork/nifty-game
+https://github.com/AYIDouble/Simple-Game-ERC-721-Token-Template
+
